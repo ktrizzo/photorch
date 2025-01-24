@@ -1,0 +1,15 @@
+# Ignore virtual environment files and directories
+lib/
+bin/
+.venv/
+env/
+pyvenv.cfg
+
+# Ignore cache files and directories
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+share/
+include/

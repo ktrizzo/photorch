@@ -1,0 +1,2 @@
+species,Vcmax25,Jmax25,TPU25,Rd25,alpha,theta,Vcmax_dHa,Vcmax_Topt,Vcmax_dHd,Jmax_dHa,Jmax_Topt,Jmax_dHd,TPU_dHa,TPU_Topt,TPU_dHd,Rd_dHa,Gamma25,Gamma_dHa,Kc25,Kc_dHa,Ko25,Ko_dHa,O
+Romaine,145.85,363.47,17.32,0.88,0.34,0.00,71.63,307.08,200.00,56.92,304.88,200.00,27.26,305.07,201.80,46.39,42.75,37.83,404.90,79.43,278.40,36.38,213.50
